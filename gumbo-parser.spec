@@ -20,4 +20,4 @@ Gumbo is an implementation of the HTML5 parsing algorithm implemented as a pure 
 %install -a
 %libpackages
 echo %{_includedir}/tag_enum.h >>%{specpartsdir}/%{mklibname -d gumbo}.specpart
-echo %{_includedir}/%{name}.h >>%{specpartsdir}/%{mklibname -d gumbo}.specpart
+echo %{_includedir}/%{bname}.h >>%{specpartsdir}/%{mklibname -d gumbo}.specpart
