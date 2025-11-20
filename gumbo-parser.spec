@@ -1,7 +1,7 @@
 %define bname   gumbo
 
 Name:		gumbo-parser
-Version:	0.13.1
+Version:	0.13.2
 Release:	1
 Source0:	https://codeberg.org/gumbo-parser/gumbo-parser/archive/%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Gumbo is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library with no outside dependencies.
